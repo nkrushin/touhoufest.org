@@ -4,7 +4,7 @@ meetups:
     - id: "tab-fri"
       label: "Fri"
       events:
-        - title: "Youkai Mountain"
+        - title: "Youkai Mountai"
           time: "Friday | 12:00 PM - 1:00 PM"
           characters: "TH10, TH16, TH18, Tengu"
           url: "#"
